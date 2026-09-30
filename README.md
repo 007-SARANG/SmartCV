@@ -9,6 +9,10 @@
 
 ---
 
+## Project origin and contributions
+
+This is a collaborative fork of [AbhinavDhiman34/SmartCV](https://github.com/AbhinavDhiman34/SmartCV). The commit history records contributions from multiple authors; Sarang's commits include ATS-engine and frontend routing changes. The upstream repository retains the original project history.
+
 ## 🌟 Features
 
 - ✨ **Drag-and-Drop Resume Builder**
